@@ -1,0 +1,72 @@
+/* STYLE SECTIONING TAGS */
+body {
+ background-color: #F8F9D7; 
+text-align: center;
+}
+main {
+  margin-top: 0;
+  margin-bottom: 0;
+  margin-right: 20%;
+  margin-left: 20%;
+}
+
+/* STYLE TEXT */
+*{
+  margin: 5px;
+  padding: 0px;
+}
+
+h1 {
+  color: #1E2022;
+  font-family: 'Patrick Hand', cursive;
+  text-align: center;
+  font-size: 2.2em;
+  padding-top: 1em;
+  padding-bottom: 1em;
+}
+
+p {
+  font-family: 'Patrick Hand', cursive;
+  color: #1E2022;
+  padding-top: 1em;
+}
+
+
+
+/* STYLE IMAGES */
+
+img {
+  max-width: 50%;
+  max-height: 50%;
+  border-radius: 10%;
+  border: 5px solid white;
+  
+}
+
+/* STYLE NAV BAR */
+ul {
+  list-style-type: none;
+  background-color: #90C8AC;
+  overflow: hidden;
+  padding: 1em;
+  font-family: 'Mali', cursive;
+}
+
+li {
+  display: inline;
+}
+
+li a {
+  text-decoration: none;
+  color: #1E2022;
+  font-size: 1em;
+  padding: 1em;
+}
+
+li a:hover {
+  background-color: #C4DFAA;
+}
+
+#intro {
+  color: #1B2430
+}
